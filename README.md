@@ -28,7 +28,7 @@
 | :--- | :--- | :--- | :--- |
 | **🪤 [Aegis-Trap](https://github.com/Kepvion/aegis-trap)** | High-concurrency TCP socket tarpit & honeypot that stalls automated reconnaissance scanners via delayed byte drip. | Python 3, Sockets, Threading | [Repo](https://github.com/Kepvion/aegis-trap) |
 | **⚡ [GitSyncra (Coding Portfolio Sync)](https://github.com/Kepvion/gitsyncra)** | Aggregates real-time competitive programming telemetry from LeetCode & Codeforces to publish dynamic stats badges. | Node.js, Express, React, Vite | [Repo](https://github.com/Kepvion/gitsyncra) |
-| **🏢 [Clabsy Sales CRM](https://github.com/Kepvion/clabsy-sales)** | Real estate CRM and inventory enablement platform with interactive plot mapping and Kanban lead pipelines. | React 19, Tailwind CSS v4, Vite | [Repo](https://github.com/Kepvion/clabsy-sales) |
+| **🏢 [Clabsy Sales CRM](https://clabsy-sales.vercel.app/)** | Real estate CRM and inventory enablement platform with interactive plot mapping and Kanban lead pipelines. | React 19, Tailwind CSS v4, Vite | [Live App](https://clabsy-sales.vercel.app/) |
 
 ---
 
