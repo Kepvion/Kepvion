@@ -1,42 +1,47 @@
-# Priyanka Kumari (Kepvion)
-**Full-Stack & Systems Engineer** · Building developer tooling, SaaS architectures, and production web systems.
+# Hi, I'm Priyanka Kumari 👋
 
-[Portfolio](https://kepvion.github.io/PortfolioWebsite/) · [LinkedIn](https://www.linkedin.com/in/p-jaiswal-6a6bb6434/) · [X (Twitter)](https://x.com/Kepvion) · [LeetCode](https://leetcode.com/) · `priyankakumari0604@gmail.com`
+<p align="center">
+  <b>Computer Science & Engineering @ IIIT Agartala ('27) · 8.67 CGPA</b><br>
+  <b>Amazon Future Engineer Scholar · Aspire Leaders Fellow (Harvard Faculty)</b><br>
+  <i>Passionate about Backend Systems, Network Concurrency, and Application Security.</i>
+</p>
 
----
-
-### 🔨 Featured Systems & Engineering Work
-
-#### 1. [Clabsy — Real Estate CRM & Plot Management SaaS](https://github.com/Kepvion/clabsy-sales)
-*Production-ready B2B sales dashboard and inventory pipeline for commercial real estate.*
-- **Frontend Architecture:** Built with React 19, Tailwind CSS v4, and Context API for zero-lag state management across lead pipelines and interactive booking modals.
-- **Key Modules:** Complete customer lifecycle management including lead scoring, site-visit dispatching, dynamic plot inventory status, and transactional toast alerts.
-- **Deployment:** Continuous deployment pipeline configured on Vercel.
-
-#### 2. [ApexStore — E-Commerce & Merchant Admin Engine](https://github.com/Kepvion/ecommerce-platform)
-*Full-stack commercial storefront and inventory management system with automated payment processing.*
-- **Payment & Security:** Integrated Razorpay payment gateway with webhook verification for secure transaction lifecycle handling.
-- **Backend Infrastructure:** Architected on PHP 8.2 & Laravel 12 with relational MySQL schema design, indexed inventory models, and granular admin authorization.
-- **Client Handover:** Authored automated batch execution scripts (`START_WEBSITE.bat`) and comprehensive deployment manuals for zero-downtime client handoffs.
-
-#### 3. [Coding Portfolio Sync](https://github.com/Kepvion/coding-portfolio-sync)
-*Automated developer profile engine aggregating competitive programming metrics.*
-- **System Design:** Node.js/Express API engineered with strict `app.js` and `server.js` separation for clean, parallelized Supertest integration.
-- **Data Pipeline:** Scheduled fetchers aggregating verified metrics across LeetCode (GraphQL) and Codeforces (REST) to programmatically generate SVG badges and commit to GitHub repositories.
-- **Security:** Token handling secured via OAuth 2.0 with AES-256 encrypted storage.
+<p align="center">
+  <a href="https://linkedin.com/in/kepvion"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/kepvion"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://kepvion.github.io/PortfolioWebsite/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:priyankakumari0604@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-### 💻 Technical Competencies
+## 🛡️ Confirmed Security Proof-of-Work
 
-- **Languages:** TypeScript, JavaScript (ES6+), Python, C++, PHP, SQL, HTML5/CSS3
-- **Frontend Engineering:** React 19, Next.js, Tailwind CSS (v3/v4), Vite, Responsive Architecture, State Modeling
-- **Backend & Data:** Node.js, Express.js, Laravel, RESTful APIs, MySQL, PostgreSQL, MongoDB, Redis basics
-- **Tools & Protocols:** Git, GitHub Actions, Vercel, Docker basics, Razorpay API, OAuth 2.0, Linux/Bash
+* **Google Android Security Team (Issue #485222924)**: Discovered and reported a security vulnerability in Android OS framework components; verified and triaged by Google's Android Security engineers.
+* **Flipkart / Ekart Logistics IDOR (HackerOne #3759759)**: Identified an Insecure Direct Object Reference (IDOR) enabling unauthorized access to delivery tracking metadata; patched by Flipkart Security.
 
 ---
 
-### 📈 Problem Solving & Open Source
+## 💻 Core Technical Projects
 
-- **Algorithms & Data Structures:** 210+ problems solved across LeetCode & GeeksforGeeks focusing on Tree traversals, Recursion, Binary Search, and Two Pointers.
-- **Open Source:** Active contributor exploring security vulnerability tooling on [django-DefectDojo](https://github.com/Kepvion/django-DefectDojo).
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🪤 [Aegis-Trap](https://github.com/Kepvion/aegis-trap)** | High-concurrency TCP socket tarpit & honeypot that stalls automated reconnaissance scanners via delayed byte drip. | Python 3, Sockets, Threading | [Repo](https://github.com/Kepvion/aegis-trap) |
+| **⚡ [GitSyncra (Coding Portfolio Sync)](https://github.com/Kepvion/gitsyncra)** | Aggregates real-time competitive programming telemetry from LeetCode & Codeforces to publish dynamic stats badges. | Node.js, Express, React, Vite | [Repo](https://github.com/Kepvion/gitsyncra) |
+| **🏢 [Clabsy Sales CRM](https://github.com/Kepvion/clabsy-sales)** | Real estate CRM and inventory enablement platform with interactive plot mapping and Kanban lead pipelines. | React 19, Tailwind CSS v4, Vite | [Repo](https://github.com/Kepvion/clabsy-sales) |
+
+---
+
+## 🛠️ Tech Stack & Proficiencies
+
+- **Languages**: C++, Python, JavaScript (ES6+), SQL, Java
+- **Backend & Systems**: Node.js, Express.js, Socket Programming, Multithreading, REST APIs
+- **Frontend**: React 19, Tailwind CSS, Vite, HTML5/CSS3
+- **Tools & Security**: Git, Linux/Bash, Burp Suite, Postman, Wireshark, Docker
+- **Algorithms**: 210+ Problems Solved on LeetCode / Codeforces (Data Structures & Algorithms)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kepvion&show_icons=true&theme=tokyonight&hide_border=true" alt="Kepvion GitHub Stats" />
+</p>
